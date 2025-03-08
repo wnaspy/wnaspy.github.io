@@ -21,7 +21,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
   ```
   nếu đã cài đặt nó sẽ hiện lên version bản git đã cài, thế là OK
 
-### Cài đặt Ruby và Bundler
+### 🔹Cài đặt Ruby và Bundler
 
 Tải Ruby+Devkit từ [rubyinstaller.org](https://rubyinstaller.org), nên dùng bản mới nhất nhé
 

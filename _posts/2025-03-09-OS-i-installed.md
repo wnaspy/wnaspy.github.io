@@ -12,3 +12,9 @@ author: "konchan"
 
 ### 2. Kali linux
 ![Kali linux](/images/kali-linux.jpg)
+
+### 3. Windows Server
+![Windows Server](/images/windowsServer.jpg)
+
+### 4. Windows
+![Windows](/images/windows.jpg)

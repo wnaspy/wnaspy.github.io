@@ -17,4 +17,4 @@ author: "konchan"
 ![Windows Server](/images/windowsServer.jpg)
 
 ### 4. Windows
-![Windows](/images/windows.jpg)
+![Windows](/images/Windows.jpg)

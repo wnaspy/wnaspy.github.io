@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Make your weapons before hunt bounty"
-date: 2025-03-09 18:30:00 +0700
 categories: Pentest
 tags: [pentest, android, tutorial, beginner]
-author: "konchan"
 ---
 
 # Description

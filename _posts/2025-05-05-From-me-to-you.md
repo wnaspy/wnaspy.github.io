@@ -10,3 +10,8 @@ Cũng chả có gì hay ho, chỉ là dạo này tôi không kiểm soát đư�
 Cơ mà, thật sự nhé , t cũng chẳng biết t đang bị gì đâu hoặc nếu có thì t cũng chẳng mong nó đến đâu. Ghi ra những dòng này làm t thấy bình tâm lại chứ gần thi mà đầu óc cứ rối mù thì đ làm được gì cả, cơ mà với kinh nghiệm đọc romcom 12 năm của t thì bọn m có vẻ rush chậm đấy, nếu nhớ hồi trước t có nói j thì coi như là t trả lại m 1:1 mặc dù m vs t đều say no, yeah thế thì ms yên tâm <(") Cơ mà nhạc lựa chọn khúc chẳng ai nghe để đăng story thì lạ vãi beep, ờ t biết mà, có lẽ thế <(")
 
 Cơ mà nói muốn gặp là nói dối và không muốn gặp cũng là nói dối <(") chả biết nữa, t thoải mái hơn rồi cơ mà t ko nghĩ sẽ còn viết về m nữa đâu, năm ngoái đc 1 đứa đâu đâu tt cũng chill phết cơ mà lại từ chối ngta mất r <(") t chs chưa đã, hi vọng 25 tuổi gặp lại. Cơ mà t lại mong gặp cả 2 đứa luôn, chill đê <(")
+
+<video width="640" height="360" autoplay muted controls>
+  <source src="/video/love.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

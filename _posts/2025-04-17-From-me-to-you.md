@@ -1,20 +1,12 @@
 ---
-title: "From me to you guys"
+title: "From me to you"
 layout: post
 categories: Secret
 ---
 # Chà chà, lại là mình đây
 
-Hế lô viewers, lại là K0nch4n đây
+Ừa, gặp lại chắc chỉ đến thế thôi chứ mình không muốn làm phiền cả hai cậu nữa. Nên nói sao cho hay nhỉ. "Good luck??", "Chúc may mắn và hạnh phúc abcxyz??", trông nó phèn chết được haha. Có thằng đần nào nhìn ảnh mà ko đoán được không hmm. Thk nào nhìn profile mà đoán trật nữa thì thk đó đúng là nên isekai đi, nhể. Cơ mà, ừa mình đần thật, cố chấp nữa, ko dám thừa nhận, hướng ngoại parttime, hoặc đơn giản chỉ là muốn níu lại chút gì đó cũ. Cơ mà mình cũng hay đoán sai lắm, cũng ko chắc chắn, nhưng nếu đúng thì thật tốt vì đã "từng có", hoặc không cứ coi mình là thằng người quen mất não chuyên ảo tưởng linh tinh rồi block cũng đc, mình thoải mái với chuyện đó <(") <(") Cơ mà nếu mình cứ hành xử như thế chắc mình sẽ là người xấu trong mắt bạn B kia mất. Mắt không thấy tim không đau, lại phải tập quên thêm lần nữa chứ biết làm sao giờ, trước đây từng thế rồi mà nhưng mà lần đó t còn chả biết tại sao nó lại xuất hiện cơ, damm zui thiệt. Cơ mà lần này thì hơi khó chịu thật đấy, khó chịu hơn lần trước khá nhiều, trước thì còn đỡ chưa bị ám ảnh lắm, nên là h cứ unfr để tập trung thi xong rồi sau này t gặm nhấm gì thif gặm nhấm <(") Cơ mà nhạc t nghe hay đấy chứ, bài hay thì toàn nhạc suy, mà nhạc suy thì như bát súp thập cẩm ấy, chán thiệt, nó ko liên quan gì đâu, chỉ là youtube/tiktok đề xuất như nào thì t nghe như nấy, nhưng ừ t cũng cảm thấy nó giống t phần nào đó, chán ghê. Cũng đ hiểu có phải do ông trời sắp đặt ko mà t tỉnh dậy lúc nào cũng trùng thời gian, đ thể hiểu được sự trùng hợp ngẫu nhiên đến khó tin, nhiều vãi. Cơ mà nhé, nghiện ít thôi, 2 tháng đủ để t xếp được thời gian hoạt động trung bình của 1 người đấy, 1 tuần t vô đc có 6-7 trận mà lúc éo nào t vô cũng out, damm khó chịu thật <(") Cơ mà nói đi cũng phải nói lại, đừng nói, chỉ nghe thôi, đúng hay sai t cũng ko cần biết, cũng chẳng muốn làm ai mệt mỏi nữa, cơ bản mình t chạy cũng đủ mệt r. Thế nhé, đọc được hay không thì t cũng chả bận lòng nữa đâu, nói dối đấy <("), t giờ chắc hết bị ám ảnh rồi <(") biết đâu sau này lại lên lại như lần này, chịu chả biêt đc, trong mơ còn thấy nữa mà :))) nói ra thì ngại và ừ hơi điên nhưng mà thôi, ko nói ra t lại khó chịu đến chết mất.Thế nhé, liệu mà cố gắng lên, được 2 năm rồi thì ráng mà đi lâu dài đi ko là t hết nói nổi :))) .......................................................
 
-Mình tính đẩy chuyện hiểu nhầm này đi xa hơn nữa cơ nhưng mà thấy tội lỗi quá nên mới có bài này.
+Ừa, nếu mà đọc được những dòng này thì đừng nói gì cả, cứ im lặng mà lướt qua thôi nhưng t thì hi vọng m đừng đọc được không t lại ko biết chui xuống đâu mà trốn nữa. Thảm hại thật đấy, cơ mà đéo hiểu nữa, cơ mà nếu có dịp thì ủng hộ team `Cab Fan[G]sub` nhé, bọn mình chuyên dịch truyện romcom (trước đây mình từng dịch thôi, h đi viết dạo giải trí hehe).
 
-Cơ bản mình có đùa hơi ác, ừa hơi ác thật. Lấy cảm xúc viewer train con bot của mình nó mất dạy vc :))) Ơ nhưng mà nếu các bạn muốn test bot của mình thì mình cho free prompt đầu với mỗi người dùng đầu tiên nhá, cũng chính từ các bạn ra mà.
-
-Cũng xin lỗi vì đã kéo những người không liên quan tham gia vào dự án này, chỉ là mình đang muốn xem Spybee nó có thể hiểu được đến đâu, nhưng 95.2536% là kết quả khả quan nhất mà mình từng đạt được. Thực lòng xin lỗi những ai đã bị trigged
-
-Và quan trọng hơn, điều quan trong nên nói sau <(") gái gù phù du, gái cc, bố đéo s1mp ai hết nên là mấy fen đừng ảo nữa nha, thân <(")
-
-Cơ mà trong số những người xem story hay qua trang của mình, mình thấy có một số bạn đang bắt đầu ảo tưởng jj đó, không tiện nói thôi chứ mình log hết người xem mà, non-follower ấy, xin lỗi mình coi mấy bạn là viewers không hơn không kém. Chưa phải là gu của mình nên đừng làm những thứ gây hiểu nhầm còn chỉ đơn giản là nghe một câu chuyện romcom thì mình sẵn lòng chia sẻ những mẩu truyện của mình 3 tháng 1 lần khi mình cảm thấy hứng thú.
-
-Sau cùng tập thể Zlick3r xin cảm ơn các nhà tài trợ xuất sắc đã hộ trợ mình tập build bot dựa trên cảm xúc hành vi
+cơ mà blog tiện thật, có cái viết nói ra nhưng ít người để ý :))))

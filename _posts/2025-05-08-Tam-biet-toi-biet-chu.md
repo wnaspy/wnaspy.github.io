@@ -3,8 +3,6 @@ layout: post
 categories: [Secret, Novel]
 tags: [romcom, slice of school, oneshot]
 ---
-# Name: Tạm biệt, tôi biết chứ.
-
 “Sau này yêu ai, anh nhất định phải làm cô gái ấy hạnh phúc nhé!!”
 
 \---------------------------------------------------------------------------------------------------------------------
@@ -32,7 +30,7 @@ Anh biết em không thích thấy anh yếu đuối, nhưng lần này, cho anh
 
 Em là sai lầm đẹp nhất đời anh. Và anh, là kẻ lụy tình nhất trong đời em – đúng không?
 
-Nhưng mà, anh vẫn phải bước tiếp thôi, anh cũng đã gặp lại bạn cũ và anh nghĩ cũng đã xử lý xong hết mọi thứ rồi, chỉ là anh không muốn bất kì ai hiểu nhầm hết. Vẫn đến bây giờ, và có lẽ là mãi mãi sau này, anh vẫn chỉ yêu mình em. Cơ mà đùa chứ anh mới dạo qua mấy đứa cấp 2 rồi, đứa nào trông cũng vjp pro hết T__T còn mấy đứa cấp 3 thì cũng thế chỉ mỗi anh giờ vẫn đang loay hoay với mấy cái máy tính T__T
+Cơ mà đùa chứ anh mới dạo qua mấy đứa cấp 2 rồi, đứa nào trông cũng vjp pro hết T__T chỉ mỗi anh giờ vẫn đang loay hoay với mấy cái máy tính T__T
 
 Năm sau anh vẫn chúc sinh nhật nữa, em không cô đơn đâu :> 13/06 vui vẻ nhé, bye bye
 

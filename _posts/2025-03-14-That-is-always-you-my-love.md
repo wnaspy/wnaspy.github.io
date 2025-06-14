@@ -1,9 +1,10 @@
 ---
 layout: post
+title: "Em vẫn luôn là người anh yêu, mãi mãi về sau."
 categories: Novel
 tags: [romcom, slice of school, oneshot]
 ---
-# Name: Always is that you, my love.
+# Name: That is always you, my love.
 
 Một kẻ suốt ngày đau ốm như cậu thì tại sao tôi suốt ngày phải ở đây, tại sao tôi suốt ngày phải đến cái bệnh viện hôi rình mùi thuốc vì cậu chứ. Tôi phát chán lắm rồi Shiina, tôi không muốn gặp lại cậu nữa.
 

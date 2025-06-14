@@ -1,9 +1,11 @@
 ---
 layout: post
-categories: [Secret, Novel]
+title: "Tạm biệt em, tôi biết chứ"
+categories: [Secret]
 tags: [romcom, slice of school, oneshot]
 ---
-“Sau này yêu ai, anh nhất định phải làm cô gái ấy hạnh phúc nhé!!”
+
+“Sau này yêu ai, anh nhất định phải làm cô gái ấy hạnh phúc anh nhé!!”
 
 \---------------------------------------------------------------------------------------------------------------------
 

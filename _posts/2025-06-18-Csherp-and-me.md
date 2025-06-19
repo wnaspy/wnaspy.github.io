@@ -5,4 +5,4 @@ categories: [Pentest]
 tags: [beginner, pentest, redteam, PE]
 ---
 
-Lần đầu tiên mình biết đến CSharp là từ hồi mình gặp T, ừa bịp đấy. Mình gặp Kiếm :vvvv
+Lần đầu tiên mình biết đến CSharp là từ hồi mình gặp T, ừa bịp đấy. Mình gặp K :vvvv

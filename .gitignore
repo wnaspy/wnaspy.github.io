@@ -27,5 +27,5 @@ _sass/vendors
 assets/js/dist
 
 # secretfile
-/_posts/secret*
-/images/secret*
+/_posts/*secret.md
+/images/*secret.md

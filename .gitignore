@@ -27,4 +27,5 @@ _sass/vendors
 assets/js/dist
 
 # secretfile
-/kon.txt
+/_posts/secret*
+/images/secret*

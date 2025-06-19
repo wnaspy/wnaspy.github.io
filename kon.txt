@@ -1,3 +1,0 @@
-Test.txt
-admin
-konchan la admin dep troai

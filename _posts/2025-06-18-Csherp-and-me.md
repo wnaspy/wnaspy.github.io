@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "C-Sharp, tôi, và cô ấy"
+title: "C-Sharp, tôi, và bạn"
 categories: [Pentest]
 tags: [beginner, pentest, redteam, PE]
 ---
 
-Lần đầu tiên mình biết đến CSharp là từ hồi mình gặp T, ừa bịp đấy. Mình gặp K :vvvv
+Đùa chứ dạo này định học Csherp với .NET để phục vụ cho định hướng nghề nghiệp cơ mà gian nan vãi :D

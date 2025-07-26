@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Góc nhìn và cheatsheet trong phân tích mã độc"
-categories: [Pentest]
+categories: Blueteam
 tags: [blueteam, beginner, pentest, redteam, behavier]
 ---
 

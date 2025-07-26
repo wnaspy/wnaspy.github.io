@@ -23,5 +23,8 @@ Một file PE sẽ gồm 2 phần: Header và Sections
     + PE header
     + Section table
 - Sections
+
+## 3. Các kĩ thuật inject
+Một trong những kĩ thuật mà mình biết là sẽ chèn shellcode độc hại vô chương trình hợp pháp, cách này giúp mã độc thực thi nhưng tránh bị phát hiện. Mã độc sẽ tạo 1 section mới, injection shellcode vào đây sau đó trỏ entrypoint vào vị trí này để chương trình thực thi, cuối cùng qua quay về entrypoint của chương trình gốc
 {% include embed/youtube.html id="L5vWf5ge15U" %}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tạm biệt em, tôi biết chứ"
-categories: [Secret]
+categories: Novel
 tags: [romcom, slice of school, oneshot]
 ---
 

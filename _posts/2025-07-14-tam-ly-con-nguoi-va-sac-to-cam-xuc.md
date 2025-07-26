@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Tâm lý con người và sắc tố cảm xúc"
-categories: Novel
-tags: [romcom, slice of school, oneshot]
+categories: Pentest
+tags: [psychologis, redteam]
 ---
 
 ## Con người, bản ngã của cái tôi và mặt cảm tính

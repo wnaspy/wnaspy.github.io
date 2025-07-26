@@ -119,3 +119,6 @@ Bạn đã hoàn tất việc tạo blog với Jekyll và Chirpy! 🚀
 Từ bây giờ, bạn có thể viết bài mới bằng cách tạo file .md trong thư mục _posts và đẩy lên GitHub.
 
 Nếu có câu hỏi hay thắc mắc chỗ nào có thể ib mình để được giải đáp
+
+
+{% include embed/youtube.html id="95ahbau-rJk" %}

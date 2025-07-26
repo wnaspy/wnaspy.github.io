@@ -47,6 +47,3 @@ Rine nhanh chóng chạy lại chỗ Shiina ngay khi thấy cô nhóc định ch
 - C-cậu bảo cậu ghét mình màaaaaa, cậu không muốn đến bệnh viện mà.
 
 Và rồi shiina qua đời 🤡, đùa đấy tuần sau tiếp nhé h lười quá
-
----
-- Lời bạt: Ảnh minh họa, không xâm phạm bất kì cá nhân hay tổ chức nào. Nếu có yêu cầu gỡ bỏ của tác giá, làm ơn dm tôi

@@ -75,15 +75,93 @@ ví dụ UNICODE
 ```
 #include "Windows.h"
 
-int WINAPI WinMain(HINSTANCE hinstace,
-HINSTANCE hPreInstace,
-LPSTR lpCmdLine,
-int nCmdShow
-)
+int WINAPI WinMain(HINSTANCE hInstance,
+	HINSTANCE hPreInstance,
+	LPSTR lpCmdLine, // need to run Windows mode in commandline mode
+	int nCmdShow // Windows display mode
+	)
 {
-    // tạo windows instance
-    // mô tả windows class
-    // hiển thị nó
-    // return nếu nó fail hoặc exit
+	int result = MessageBoxA(NULL, "Do you love me!!?", "love", MB_ICONQUESTION | MB_YESNO);
+	switch (result)
+	{
+	case IDYES:
+		MessageBoxA(NULL, "Yeah, i love yuu too!!", "love", MB_OK | MB_ICONASTERISK); break;
+	case IDNO:
+		MessageBoxA(NULL, "OKay, but i love u, just wanna say that", "sad", MB_OK | MB_ICONSTOP); break;
+	}
+	return 0;
 }
 ```
+
+```
+#include <windows.h>
+
+TCHAR mainMessage[] = L"Hacked by Spycio.Kon";
+
+LRESULT CALLBACK WndProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam)
+{
+    HDC hdc;
+    PAINTSTRUCT ps;
+    RECT rect;
+    COLORREF colorText = RGB(255, 0, 0); 
+
+    switch (uMsg)
+    {
+    case WM_PAINT:
+        hdc = BeginPaint(hWnd, &ps);
+        GetClientRect(hWnd, &rect);
+        SetTextColor(hdc, colorText);
+        SetBkMode(hdc, TRANSPARENT); 
+        DrawText(hdc, mainMessage, -1, &rect, DT_SINGLELINE | DT_CENTER | DT_VCENTER);
+        EndPaint(hWnd, &ps);
+        break;
+    case WM_DESTROY:
+        PostQuitMessage(0);
+        break;
+    default:
+        return DefWindowProc(hWnd, uMsg, wParam, lParam);
+    }
+
+    return 0;
+}
+
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
+    LPSTR lpCmdLine, int nCmdShow)
+{
+    const wchar_t CLASS_NAME[] = L"MyWindowClass";
+
+    WNDCLASS wc = { };
+    wc.lpfnWndProc = WndProc;
+    wc.hInstance = hInstance;
+    wc.lpszClassName = CLASS_NAME;
+    wc.hbrBackground = (HBRUSH)(COLOR_WINDOW + 1);
+
+    RegisterClass(&wc);
+
+    HWND hWnd = CreateWindowEx(
+        0,
+        CLASS_NAME,
+        L"Window Title",
+        WS_OVERLAPPEDWINDOW,
+        CW_USEDEFAULT, CW_USEDEFAULT, 400, 200,
+        NULL, NULL, hInstance, NULL
+    );
+
+    if (hWnd == NULL)
+        return 0;
+
+    ShowWindow(hWnd, nCmdShow);
+    UpdateWindow(hWnd);
+
+    MSG msg = { };
+    while (GetMessage(&msg, NULL, 0, 0))
+    {
+        TranslateMessage(&msg);
+        DispatchMessage(&msg);
+    }
+
+    return 0;
+}
+
+```
+{% include embed/youtube.html id="KvM9R5IMOOs" %}

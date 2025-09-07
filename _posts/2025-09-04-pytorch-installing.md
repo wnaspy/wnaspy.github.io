@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crackmes, cuộc tình ngang trái giữa reverse và pwn"
+title: "Pytorch cài đặt cho người mới bắt đầu"
 categories: Blueteam
 tags: [blueteam, beginner, system, devops]
 ---

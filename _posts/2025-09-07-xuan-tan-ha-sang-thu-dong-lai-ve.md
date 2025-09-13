@@ -10,6 +10,7 @@ tags: [romcom, slice of life]
 - Chào quý độc giả thân mến, cảm ơn đã thưởng thức trọn vẹn những bộ Novel mình viết chill chill trong lúc rảnh. Việc mọi người vẫn còn dõi theo hoạt động của mình làm mình rất vui, vui cực luôn ấy. Mình rất trân trọng điều đó và cũng như để đáp lại tình cảm của mọi người thì mình sẽ cho ra mắt theo seri dài tập chứ không kiểu oneshot nữa. Thực sự mình vẫn đang lười và phân vân có nên dừng hẳn hay không, nhưng mà một phần nào đó trong mình lại không muốn từ bỏ lắm. Mình thích viết, mỗi dòng là đều chứa đựng cảm xúc và tâm huyết của mình đối với nhân vật - dù mình viết méo hay và nhiều sạn kinh khủng :))) Nhưng mà, mình vẫn sẽ cố gắng đưa đến các bạn những thứ tốt nhất, xin cảm ơn.
 
 # Tập 1
+
 ## Mở đầu
 
 Nếu bạn hỏi tôi có tin vào tình yêu học tuổi học trò không thì câu trả lời luôn luôn là không. Tôi không tin vào thứ cảm xúc ấy. Với tôi, tình yêu học trò chỉ đơn thuần là cảm giác mong muốn trải nghiệm một thứ nào đó mới mẻ, giống như đứa trẻ khóc lóc cầu xin ba mẹ mua một món đồ chơi nó thích, hào hứng khi nhận được rồi lại quăng đi sau khi đã chơi chán. Tình yêu tuổi học trò là thế, không kéo dài được, không lâu bền. Bạn có thể nghĩ "Tuổi trẻ chúng ta thật ngắn ngủi, phải nên cứ tận hưởng hết mình trước khi chuyến tàu mang tên thanh xuân vụt qua mất" nhưng tận hưởng thế nào mới là đúng, không ai nói cả, nói đúng hơn, mọi người đều tận hưởng theo một cách của riêng họ, không hề có một khuôn mẫu nên khi ai đó nói bạn tận hưởng, họ chỉ đơn giản là đang nói về trải nghiệm của họ với bạn.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<Mình sẽ để bạn tự nghĩ tiêu đề ngay khi mình viết xong tập 1>"
+title: "tiểu thuyết dành cho những kẻ chán đời"
 categories: novel
 tags: [romcom, slice of life]
 ---

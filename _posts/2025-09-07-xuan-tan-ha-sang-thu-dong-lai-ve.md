@@ -2,7 +2,7 @@
 layout: post
 title: "tiểu thuyết dành cho những kẻ chán đời"
 categories: novel
-tags: [romcom, slice of life]
+tags: [romcom, slice of life, drama]
 ---
 
 # Lời bạt
@@ -24,3 +24,17 @@ Một đứa không biế chút gì về tình yêu lại đi tỏ ra ngưỡng 
 Nhưng mà nói thế cũng không phải, tôi yêu romcom, tôi yêu những câu chuyện hài lãng mạn nhưng đầy kịch tính trên phim ảnh và cả trên những trang giấy trắng, tôi yêu những biểu cảm xấu hổ mà nhân vật nữ dành hết can đảm để thổ lộ và cuối cùng là nhận lấy cái ôm hôn đầy nồng thắm đáp lại của nhân vật nam. Mỗi tập phim, mỗi trang truyện đều khiến bản thân tôi tan chảy, tình yêu qua phim là thế đó, nhẹ nhàng, nồng thắm nhưng lại đẹp đẽ biết bao. Song thực tại lại rất khác, ngày qua ngày, bức tranh cuộc sống đã nhét vào đầu tôi bao nhiêu vụ cãi vã xong chẳng giải quyết được gì rồi cuối cùng đường ai nấy đi. Họ đã làm dấy bẩn thứ tình cảm cao đẹp mà tôi tin tưởng. Tôi tin vào tình yêu, nhưng không phải tình yêu của độ tuổi này. Nếu những vị thần thực sự tồn tại, tôi chỉ mong bản thân mình là một nhân vật phụ nhỏ bé trong một bộ romcom đời thực, tôi sẽ giúp đỡ hết sức mình để bạn có được tình yêu của mình.
 
 ## Chương 01: Gặp gỡ
+
+"Chào bạn, mình có hẹn với một người tên Thanh Phúc ở đây..."
+
+"Anh là Nguyễn Thanh Tùng phải không ạ. Chị Ánh đã thông báo trước cho bên em, anh đi thẳng lên tầng 3 bàn 405 giúp em với ạ." chu tiểu ánh
+
+Mấy hôm trước tôi có ngỏ ý muốn tham gia một câu lạc bộ nào đó trên nhóm chat trường thì được một tài khoản tên *Thanh Phúc* nhắn tin muốn mời tôi gia nhập câu lạc bộ du lịch. Vì nghe trông có vẻ hay nên chúng tôi đã trao đổi thông tin liên lạc và hẹn gặp mặt ở một quán cà phê cách trường chỉ khoảng năm phút đi bộ. Tuy là gần trường nhưng với một kẻ chỉ biết tan học và về nhà như tôi thì ngoài làm việc nhóm với mấy đứa bạn thì đây là lần đầu có người hẹn gặp tôi ra cafe đấy. Thật hồi hộp.
+
+Trở lại với thực tại, cũng chẳng biết do ma xui quỷ khiến thế nào tôi cứ tăm tắp nghe theo cậu phục vụ mà đi lên tầng ba. Chỉ khi chân đã quá nửa tầng 2 tôi mới schợt nhớ ra người tôi hẹn gặp hôm nay là Thanh Phúc chứ đâu phải là người tên Ánh nào đâu. Cậu ta rõ ràng nói hẳn họ tên tôi, hay là cậu phục vụ nhầm tôi với một người nào khác cùng tên. Chắc là người giống người bởi tên tôi cũng không phải là một tên đặc biệt gì, nhưng Thanh Phúc bảo tôi đến thì cứ hỏi nhân viên phục vụ, tôi có nên xuống hỏi lại cậu ta hay không. Những suy nghĩ đó cứ thế xâm chiến tâm trí tôi và chỉ dừng lại khi hai chân tôi dừng hoàn toàn trước tấm biển có ghi tầng 3. Thôi thì đã đến rồi 
+
+""
+
+
+
+Cậu nhân viên 

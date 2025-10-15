@@ -9,6 +9,7 @@ tags: [blueteam, beginner, pentest, redteam, behavier]
 
 - Dưới góc độ là một nhà nghiên cứu bảo mật, đặc biệt trong vai trò redteam thì code injection là một trong những thứ mà mình thấy khá thú vị. Việc tạo ra một con malware để đánh cắp thông tin hoặc đơn giản chỉ là quậy phá nhằm thỏa mãn nhu cầu của bản thân là điều mình từng mơ ước. Tuy nhiên, để có cái nhìn bao quát hơn ta phải hiểu blueteam phát hiện mã độc như nào để từ đó update tư duy thay đổi các đoạn mã nhằm persistent một cách yên lặng nhất.
 
+
 # Góc nhìn của 1 Blueteamer
 
 - Dưới góc độ của blueteam có rất nhiều tool hỗ trợ trong việc rà soát mã độc, hôm nay ta sẽ đi tìm hiểu Windows Sysinternals. Sysinternals tools được tạo ra bởi Mark Russinovich và Bryce Cogswell, có hơn 70 công cụ khác nhau trong bộ suite này nhưng a sẽ target vào 3 cái chính là Process Monitor, Process Explorer và AutoRuns

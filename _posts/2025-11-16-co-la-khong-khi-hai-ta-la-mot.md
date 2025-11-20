@@ -14,17 +14,17 @@ Hắt xì.
 
 Tôi đưa tay lên xoa nhẹ sống mũi, hai mắt thì hướng về chiếc đèn đỏ chuẩn bị chuyển xanh.
 
-Tokyo đã khoác lên mình bức màn trắng. Những bông tuyết rơi nhè nhẹ, bay vài vòng trong gió rồi đáp xuống mặt đất. Tôi tự hỏi từ bao giờ mà trời đã trở đông, mà có lẽ là khoảng hai tuần trước, nhưng khi ấy, tôi còn đang bị rầy ra vì chậm tiến độ công việc nên chẳng để tâm để thời tiết. Nhưng để ý kỹ, Tokyo về đông đẹp thật, ánh đèn neon đầy đủ màu sắc từ những gian hàng phủ lên nền tuyết trắng thật đối lập, nhưng chính sự đối lập ấy tạo nên một vẻ đẹp rất riêng, phố xá cũng đã bắt đầu nhá nhem, ai cũng hối hả kết thúc ngày của mình. Tôi thì chỉ muốn về thật nhanh, chui vào phòng và tránh cái cảm giác lạnh đang len vào cổ áo.
+Tokyo đã khoác lên mình bức màn trắng. Những bông tuyết rơi nhè nhẹ, bay vài vòng trong gió rồi đáp xuống mặt đất. Tôi tự hỏi từ bao giờ mà trời đã trở đông, mà có lẽ là khoảng hai tuần trước, nhưng khi ấy, tôi còn đang bị rầy ra vì chậm tiến độ công việc nên chẳng để tâm để thời tiết. Cơ mà để ý kỹ thì Tokyo về đông đẹp thật, dưới ánh đèn neon đầy đủ màu sắc từ những gian hàng như nhuốm màu lên gam trắng đối lập ấy, nhưng chính sự đối lập ấy tạo nên một vẻ đẹp rất riêng. Trời đã chạng vạng, phố xá đã bắt đầu nhá nhem, ai cũng hối hả kết thúc ngày của mình. Tôi thì chỉ muốn về thật nhanh, chui vào phòng và tránh cái cảm giác lạnh đang len vào cổ áo.
 
 \- Tohru-sempai, anh làm rơi nè.
 
-Tôi giật mình nhẹ. Không chắc âm thanh đó có phải hướng vào bản thân hay không, nhưng bản năng vẫn khiến tôi quay lại.
+Tôi giật mình nhẹ, một âm thanh không quen thuộc vang sau lưng tôi. Không chắc âm thanh đó có phải hướng vào bản thân hay không, nhưng bản năng vẫn khiến tôi quay lại.
 
 Một cô gái xinh xắn, người hơi cúi nhưng bàn tay cố đưa ra phía trước. Hơi thở cô phả ra thành sương nhẹ.
 
 Trong tay cô là một chiếc ví.
 
-Một chiếc ví đã ngả màu!? Trông thật quen thuộc
+Một chiếc ví cũ đa bạc màu!? Trông quen thuộc
 
 Tôi lục túi áo theo phản xạ - không thấy. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thuật toán và kiến thức"
-categories: Novel
+categories: Pentest
 tags: [redteam, devops, OS, PE, system, blueteam, immediately]
 ---
 

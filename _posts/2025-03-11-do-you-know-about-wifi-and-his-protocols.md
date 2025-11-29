@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: Pentest
-tags: [pentest, immediately]
+tags: [pentest, immediately, blog, redteam, blueteam]
 ---
 
 # Build your homelab, setup your wifi router, defense your network and hide yourself on the Internet 

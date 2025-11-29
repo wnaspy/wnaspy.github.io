@@ -2,7 +2,7 @@
 layout: post
 title: "Có lạ không khi hai ta là một"
 categories: Novel
-tags: [redteam, devops, OS, PE, system, blueteam, immediately]
+tags: [romcom, oneshot, slice of life]
 ---
 
 - Description: Lâu lâu release novel chứ không mọi người tuong tui ngaast r :
@@ -65,3 +65,4 @@ Tôi không biết bữa ăn ấy có dẫn đến điều gì hơn không.
 Nhưng có một điều tôi nhận ra rất rõ: "Đôi khi, người ta không bước vào đời mình bằng nụ cười. Họ bước vào khi ta đánh rơi thứ quan trọng, và họ là người chịu khó quay lại giúp, kể cả khi trời lạnh đến mức làm họ thở dốc. Và có những món nợ ấm áp bắt đầu từ một chiếc ví rơi như thế."
 
 ---------------------
+

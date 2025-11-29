@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Assembly cho script kiddie part 1"
-categories: Blueteam
-tags: [pentest, beginner, system, coding]
+categories: [Blueteam,Pentest]
+tags: [pentest, beginner, coding, beginner, blueteam]
 ---
 
 # Assembly là gì?

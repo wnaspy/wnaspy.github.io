@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Hướng dẫn tạo blog với Jekyll và Chirpy trên GitHub Pages"
+title: "Tags và categories"
 date: 2025-03-08 18:30:00 +0700
-categories: blog
-tags: [jekyll, chirpy, github, tutorial]
+categories: Blog
+tags: [jekyll, chirpy]
 ---
 
-- tags: jekyll, chirpy, github, tutorial, hardware, tutorial, beginner
+- tags: jekyll, chirpy, github, tutorial, hardware, tutorial, beginner, android, behavier, blueteam, coding, devops, immediately, os, pe, pentest, redteam, romcom, slice of life, system, tutorial, oneshot, reverse, CVE, research
 
-- categories: blog, hardware
+- categories: Blog, Hardware, Blueteam, Novel, OS, Pentest

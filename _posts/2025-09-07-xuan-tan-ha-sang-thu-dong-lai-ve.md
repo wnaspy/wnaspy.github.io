@@ -32,9 +32,3 @@ Nhưng mà nói thế cũng không phải, tôi yêu romcom, tôi yêu những c
 Mấy hôm trước tôi có ngỏ ý muốn tham gia một câu lạc bộ nào đó trên nhóm chat trường thì được một tài khoản tên *Thanh Phúc* nhắn tin muốn mời tôi gia nhập câu lạc bộ du lịch. Vì nghe trông có vẻ hay nên chúng tôi đã trao đổi thông tin liên lạc và hẹn gặp mặt ở một quán cà phê cách trường chỉ khoảng năm phút đi bộ. Tuy là gần trường nhưng với một kẻ chỉ biết tan học và về nhà như tôi thì ngoài làm việc nhóm với mấy đứa bạn thì đây là lần đầu có người hẹn gặp tôi ra cafe đấy. Thật hồi hộp.
 
 Trở lại với thực tại, cũng chẳng biết do ma xui quỷ khiến thế nào tôi cứ tăm tắp nghe theo cậu phục vụ mà đi lên tầng ba. Chỉ khi chân đã quá nửa tầng 2 tôi mới schợt nhớ ra người tôi hẹn gặp hôm nay là Thanh Phúc chứ đâu phải là người tên Ánh nào đâu. Cậu ta rõ ràng nói hẳn họ tên tôi, hay là cậu phục vụ nhầm tôi với một người nào khác cùng tên. Chắc là người giống người bởi tên tôi cũng không phải là một tên đặc biệt gì, nhưng Thanh Phúc bảo tôi đến thì cứ hỏi nhân viên phục vụ, tôi có nên xuống hỏi lại cậu ta hay không. Những suy nghĩ đó cứ thế xâm chiến tâm trí tôi và chỉ dừng lại khi hai chân tôi dừng hoàn toàn trước tấm biển có ghi tầng 3. Thôi thì đã đến rồi 
-
-""
-
-
-
-Cậu nhân viên 

@@ -20,13 +20,13 @@ Lúc đó anh cười, tưởng em đùa. Giờ thì anh tin rồi. Người đi
 
 Nhớ cái acc Kazuto với Asuna đấy không, nó bị Mắc lỏ khoá rồi, cơ mà anh nghĩ kỉ niệm của chúng mình tốt hơn là nên giấu đi, bởi lẽ, nếu anh giữ, liệu anh có khóc như ngày em xa anh không. Có những đêm gió, anh chỉ muốn nhắn cho em một tin thôi, hỏi “Em có khỏe không?”, nhưng anh biết... người chết thì không online nữa. Hmm, anh lại nói linh tinh rồi, thứ lỗi nhé
 
-Hà Nội lớn thật, nhưng chẳng còn hình bóng em. Em từng hỏi anh: “Nếu một ngày em biến mất, anh có đi tìm em không?” – câu trả lời là có, luôn là có, dẫu có bao lâu, anh cũng muốn tìm cho bằng được.
+Sanches lớn thật, nhưng chẳng còn hình bóng em. Em từng hỏi anh: “Nếu một ngày em biến mất, anh có đi tìm em không?” – câu trả lời là có, luôn là có, dẫu có bao lâu, anh cũng muốn tìm cho bằng được.
 
 Nhưng mà tìm để làm gì, khi em đã không còn muốn anh tìm?
 
 Có hôm anh mơ thấy em, vẫn là dáng em đó, mái tóc dài đó, nụ cười nghiêng nghiêng khiến anh tan chảy như mọi lần. Em nhìn anh, hỏi: “Sao chưa quên em đi?” – anh không trả lời, chỉ cúi đầu. Bởi vì anh biết, nếu anh trả lời thật lòng, em sẽ buồn. Nhưng nếu nói dối, anh sẽ tự giết mình thêm lần nữa.
 
-Cơ mà Thy này, anh sống không ổn lắm, nhưng vẫn sống. Như một thói quen thôi. Có khi đang giữa đám đông, tự nhiên tim nhói lên. Có khi đang cười nói, lòng lại trống rỗng. Người ta gọi đó là "tập quen với thiếu vắng", còn anh gọi đó là "sống cùng cái bóng của em".
+Cơ mà Shiina này, anh sống không ổn lắm, nhưng vẫn sống. Như một thói quen thôi. Có khi đang giữa đám đông, tự nhiên tim nhói lên. Có khi đang cười nói, lòng lại trống rỗng. Người ta gọi đó là "tập quen với thiếu vắng", còn anh gọi đó là "sống cùng cái bóng của em".
 
 Anh biết em không thích thấy anh yếu đuối, nhưng lần này, cho anh yếu một lần cuối cùng nhé.
 

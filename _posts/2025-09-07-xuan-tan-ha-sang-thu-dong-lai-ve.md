@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "tiểu thuyết dành cho những kẻ chán đời"
-categories: novel
+title: "Xuân tàn, hạ sang thu đông lại về"
+categories: Novel
 tags: [romcom, slice of life, oneshot]
 ---
 

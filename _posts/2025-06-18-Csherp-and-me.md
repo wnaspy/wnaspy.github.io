@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "C-Sharp, tôi, và bạn"
-categories: [Pentest, Blueteam]
+categories: Pentest
 tags: [beginner, pentest, redteam, PE, blueteam]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assembly cho script kiddie part 1"
-categories: [Blueteam,Pentest]
+categories: Blueteam
 tags: [pentest, beginner, coding, beginner, blueteam]
 ---
 

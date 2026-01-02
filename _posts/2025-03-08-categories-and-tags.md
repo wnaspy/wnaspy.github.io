@@ -6,6 +6,6 @@ categories: Blog
 tags: [jekyll, chirpy]
 ---
 
-- tags: jekyll, chirpy, github, tutorial, hardware, tutorial, beginner, android, behavier, blueteam, coding, devops, immediately, os, pe, pentest, redteam, romcom, slice of life, system, tutorial, oneshot, reverse, CVE, research
-
+- tags: jekyll, chirpy, github, tutorial, , tutorial, beginner, android, behavier, blueteam, coding, devops, immediately, os, pe, pentest, redteam, romcom, slice of life, system, tutorial, oneshot, reverse, CVE, research
+hardware
 - categories: Blog, Hardware, Blueteam, Novel, OS, Pentest

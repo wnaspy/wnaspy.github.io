@@ -3,7 +3,7 @@ layout: post
 title: "Tạm biệt em, tôi biết chứ"
 categories: Novel
 tags: [romcom, slice of school, oneshot]
-author: "Spycio.Kon"
+author: Spycio.Kon
 ---
 
 “Sau này yêu ai, anh nhất định phải làm cô gái ấy hạnh phúc anh nhé!!”

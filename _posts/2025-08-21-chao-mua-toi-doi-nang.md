@@ -3,7 +3,7 @@ layout: post
 title: "Chào mưa, tôi đợi nắng"
 categories: Novel
 tags: [romcom, slice of life, oneshot]
-author: "Spycio.Kon"
+author: Spycio.Kon
 ---
 # Lời bạt
 - Mình không nghĩ mình còn có thời gian viết bộ khác, bao nhiêu project bỏ dở, bao nhiêu ý tưởng để đó rồi lại đập đi. Thực sự là mình đã không còn hứng thú đưa câu từ của mình lên mạng xã hội nữa, cơ mà hôm nọ có đọc được 1 bài trên confession của một bạn, cũng một phần dạo này mình đang viết báo cáo tốt nghiệp nên có chút ngứa tay nên họa vài nét để mọi người không quên mình. Lâu không viết nên văn lủng củng lắm, anh chị em bạn bè cô bác chú gì gần xa cho ông già này một vài nhận nhét nhé <(")

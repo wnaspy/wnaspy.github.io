@@ -3,7 +3,7 @@ layout: post
 title: "Tôi ở trên đỉnh vinh quang"
 categories: Novel
 tags: [romcom, slice of life]
-author: "Spycio.Kon"
+author: Spycio.Kon
 ---
 
 Trong một thế giới, nơi mà con người đã phải đối mặt với cái chết kề cận...

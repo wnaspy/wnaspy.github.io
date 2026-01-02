@@ -3,7 +3,7 @@ layout: post
 title: "Xuân tàn, hạ sang thu đông lại về"
 categories: Novel
 tags: [romcom, slice of life, oneshot]
-author: "Spycio.Kon"
+author: Spycio.Kon
 ---
 
 # Lời bạt

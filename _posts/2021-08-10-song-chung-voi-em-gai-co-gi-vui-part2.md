@@ -3,7 +3,7 @@ layout: post
 title: "Sống chung với em gái có gì vui"
 categories: Novel
 tags: [romcom, slice of life]
-author: "Shiina Mashiro"
+author: Shiina Mashiro
 ---
 
 Cao trung Kuroyami, nằm ở khu Shibuya thuộc địa phận Tokyo, lại mang sắc thái vô cùng thanh bình; tránh xa mọi âm thanh nhộn nhịp, inh ỏi của cuộc sống; khác hoàn toàn chốn phồn hoa đô hội nơi mà mọi người thường nhắc đến. Với hai đứa nhà Amano không ưa gì sự ồn ào thì đây chắc chắn là ngôi trường hoàn toàn hợp lí. Không chỉ có thế, từ nhà đến trường cũng chỉ mất lưng chừng mười phút đi bộ, kể ra cũng khá là tiện. Đó cũng là một điểm cộng lớn trong việc lựa chọn trường cao trung.

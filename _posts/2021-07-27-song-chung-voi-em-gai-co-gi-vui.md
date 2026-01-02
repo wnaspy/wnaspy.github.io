@@ -3,6 +3,7 @@ layout: post
 title: "Sống chung với em gái có gì vui"
 categories: Novel
 tags: [romcom, slice of life]
+author: "Shiina Mashiro"
 ---
 
 "Fuwaaaaaa~!!"

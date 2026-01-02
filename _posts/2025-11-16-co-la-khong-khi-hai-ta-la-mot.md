@@ -3,6 +3,7 @@ layout: post
 title: "Có lạ không khi hai ta là một"
 categories: Novel
 tags: [romcom, oneshot, slice of life]
+author: "Spycio.Kon"
 ---
 
 - Description: Lâu lâu release novel chứ không mọi người tuong tui ngaast r :

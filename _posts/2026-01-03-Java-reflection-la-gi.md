@@ -90,15 +90,15 @@ public class SerializeDemo {
 
 - Cách truy cập vào field bất kể access Modofier
 
-+ <field lấy được>.setAccessible(boolen flag)
+    +<field lấy được>.setAccessible(boolen flag)
 
 - Cách lấy giá trị của field
 
-+ <field lấy được>.get(Object obj)
+    + <field lấy được>.get(Object obj)
 
 - Cách sửa giá trị 1 field
 
-+ <Field lấy được>.set(Object obj, Object value)
+    + <Field lấy được>.set(Object obj, Object value)
 
 ## Có 4 cách lấy ra method
 - Cách 1: Method[] getMethods()
@@ -113,15 +113,15 @@ public class SerializeDemo {
 - Cách 4: Method getDeclaredMethod(String name, class<?>... parameterTypes)
 trả về method mà không quan tâm method đó có modifier là gì(ngoại trừ protected), tham số truyền vào là tên cụ thể của method đó
 
-- Cách thực thi 1 method
+>Cách thực thi 1 method
 Method.invoke(Object, parameter)
-Note: Nếu 1 method của class không chấp nhận bất kì tham số nào, có thể dùng null để pass
+>Note: Nếu 1 method của class không chấp nhận bất kì tham số nào, có thể dùng null để pass
 
 ## Có 4 cách để lấy ra 1 constructor
-Cách 1: Constructor<?>[] getConstructors()
-Cách 2: Constructor getConstructor(class<?>... parameterTypes)
-Cách 3: Constructor getDeclaredConstructor(class<?>... parameterTypes)
-Cách 4: Constructor<?>[] getDeclaredConstructors()
+- Cách 1: Constructor<?>[] getConstructors()
+- Cách 2: Constructor getConstructor(class<?>... parameterTypes)
+- Cách 3: Constructor getDeclaredConstructor(class<?>... parameterTypes)
+- Cách 4: Constructor<?>[] getDeclaredConstructors()
 
 ## Setup minh họa
 

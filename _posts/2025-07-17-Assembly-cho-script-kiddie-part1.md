@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assembly cho script kiddie part 1"
+title: "Tập tành làm quen Assembly phần 1"
 categories: Blueteam
 tags: [pentest, beginner, coding, beginner, blueteam]
 ---

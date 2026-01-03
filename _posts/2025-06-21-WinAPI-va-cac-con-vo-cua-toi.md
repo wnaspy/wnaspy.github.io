@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WinAPI for hacker"
+title: "Tập tành làm quen với WinAPI"
 categories: Pentest
 tags: [beginner, pentest, redteam, PE, coding, tutorial, beginner]
 ---

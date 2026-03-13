@@ -5,4 +5,6 @@ categories: Pentest
 tags: [redteam, devops, OS, PE, system, blueteam]
 ---
 
-Hoc duoc viec lap trinh va hieu cach debug 1 ngon ngu
+- Học được việc lập trình và debug một ngôn ngữ
+- Học cách setup môi trường test
+- Chia sẻ kinh nghiệm cho người sau

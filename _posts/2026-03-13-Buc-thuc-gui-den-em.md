@@ -26,6 +26,6 @@ Hân xua tay, cô ấy tỏ ra bình tĩnh và động viên tôi.
 
 # tâm sự của tác
 
-- Chắc cả đời mới gặp đc số ít người như em quá nhưng biết sao giờ :< Hiện tại với anh là không thể, anh cần tích lũy kinh nghiệm :< nếu em chờ đc thì tầm 2-3 năm thôi anh sẽ vô trỏng.
+- Chắc cả đời mới gặp đc một số người như em quá nhưng biết sao giờ :< Hiện tại với anh là không thể, anh cần tích lũy kinh nghiệm. Anh ko thể mạo hiểm tương lai của cả anh và em đc :< Nếu em đợi đc 2-3 năm, anh nhất định sẽ vào trong nam.
 
-- Cơ mà vẫn muốn em tìm người khác hơn là anh, nó là 1 khoảng dài đấy :<
+- Vẫn muốn em tìm người khác hơn là anh, nó là 1 khoảng dài đấy :<

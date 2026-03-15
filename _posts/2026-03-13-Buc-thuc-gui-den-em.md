@@ -6,9 +6,10 @@ tags: [romcom, slice of life, oneshot]
 ---
 
 # Lời bạt
-- Anh hứa sẽ bù đắp cho em tất cả, nhưng tất cả cần phải có thời gian. Cơ mà đấy là khi em vẫn còn thích một kẻ tồi tệ như tôi. 
 
-# okokoko
+-   Trích từ nắng kia đẹp thật đấy
+
+# 
 - Anou! Thế này thì sao?
 - Tôi nghe đây...
 Hân ngồi ngay ngắn, cô có chút ngập ngừng vừa ném ánh mắt pha chút xấu hổ về phía tôi. Tôi khẽ thoáng thấy khuôn mặt cô ửng đỏ.
@@ -22,3 +23,9 @@ Tôi chỉ biết cùi gằm và tự trách bản thân.
 - Không, không sao đâu. Không cần xin lỗi lại!!
 Hân xua tay, cô ấy tỏ ra bình tĩnh và động viên tôi.
 - Cậu cứ nghĩ lời cầu hôn đi, bao lâu tôi cũng đợi.
+
+# tâm sự của tác
+
+- Thực sự là anh không muốn mạo hiểm ngay thời điểm hiện tại, quá rủi ro cho tương lai của anh và cả của em. Nhưng mà nếu lúc đấy em vẫn còn cam giac đó, nếu em vẫn thích anh thì anh nhất định sẽ vào trong nam để gặp em. Nhưng chắc sẽ là khoảng 2-3 năm nữa ^^
+
+- Cơ mà anh vẫn nghĩ em nên thích người khác thì hơn :< Anh chả tốt mấy đâu :<

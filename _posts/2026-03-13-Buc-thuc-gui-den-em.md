@@ -26,6 +26,6 @@ Hân xua tay, cô ấy tỏ ra bình tĩnh và động viên tôi.
 
 # tâm sự của tác
 
-- Thực sự là anh không muốn mạo hiểm ngay thời điểm hiện tại, quá rủi ro cho tương lai của anh và cả của em. Nhưng mà nếu lúc đấy em vẫn còn cam giac đó, nếu em vẫn thích anh thì anh nhất định sẽ vào trong nam để gặp em. Nhưng chắc sẽ là khoảng 2-3 năm nữa ^^
+- Chắc cả đời mới gặp đc số ít người như em quá nhưng biết sao giờ :< Hiện tại với anh là không thể, anh cần tích lũy kinh nghiệm :< nếu em chờ đc thì tầm 2-3 năm thôi anh sẽ vô trỏng.
 
-- Cơ mà anh vẫn nghĩ em nên thích người khác thì hơn :< Anh chả tốt mấy đâu :<
+- Cơ mà vẫn muốn em tìm người khác hơn là anh, nó là 1 khoảng dài đấy :<

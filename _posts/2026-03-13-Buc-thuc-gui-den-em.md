@@ -26,4 +26,4 @@ Hân xua tay, cô ấy tỏ ra bình tĩnh và động viên tôi.
 
 # tâm sự của tác
 
-- Chắc cả đời mới gặp đc người như em quá. Nhưng mà a quyết định là sẽ vô nam rồi, chắc lúc đó xem nhau như bạn thôi haha :<
+- Chắc cả đời mới gặp đc người như em quá. Nhưng mà a quyết định là sẽ vô nam rồi, chắc lúc đó xem nhau như bạn thôi haha :< Cu khi nao minh bo lo minh ms thay tiec, chac do anh bi ngu. Muon chet qua

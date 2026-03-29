@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CVE-2025-47812, attack chain và các chiến thuật tấn công mình tự bịa"
+title: "Cẩn thận mã độc trong các file .vhdx"
 categories: Pentest
 tags: [redteam, devops, OS, PE, system, blueteam, immediately, CVE, research]
 ---

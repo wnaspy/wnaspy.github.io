@@ -26,4 +26,4 @@ Hân xua tay, cô ấy tỏ ra bình tĩnh và động viên tôi.
 
 # tâm sự của tác
 
-- Chắc cả đời mới gặp đc người như em quá. A nghĩ a sẽ vào lại trong Nam, nếu có lần sau chắc a tỏ tình m thiệt đấy, cơ mà chắc chẳng còn cơ hội đâu. Cứ mất đi lại tiếc, t chán bản thân quá. Cơ mà khó nói thật, ghi lên đây note tạm vậy. muốn chết quá. 
+- Chắc cả đời mới gặp đc người như em quá. A nghĩ a sẽ vào lại trong Nam, nếu có lần sau chắc a tỏ tình m thiệt đấy, cơ mà chắc chẳng còn cơ hội đâu. Cứ mất đi lại tiếc, t chán bản thân quá. Cơ mà khó nói thật, ghi lên đây note tạm vậy. muốn chết quá.

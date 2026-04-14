@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chuyện về những chú  dế"
+title: "Chuyện về những chú dế"
 categories: Blog
 tags: [Blog]
 author: Spycio.Kon

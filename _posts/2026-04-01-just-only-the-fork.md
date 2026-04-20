@@ -13,6 +13,6 @@ tags: [blog]
 
 - Về em: 
 
-- Về tôi: Tự nhiên vạch áp ng xem nhỉ, trông thảm hại vc
+- Về tôi: Tự nhiên vạch áo ng xem nhỉ, trông thảm hại vc
 
 note: Ko tin mot ai

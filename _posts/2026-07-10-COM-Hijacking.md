@@ -7,7 +7,7 @@ tags: [readteam]
 
 # Mở bài
 
-- Bài này sẽ tóm tắt nhanh kĩ thuật COM Hijacking - lợi dụng việc load DLL bằng explorer.exe để thực thi mã độc
+- Bài này sẽ tóm tắt nhanh kĩ thuật COM Hijacking thông Windows Thumbnail Cache - lợi dụng việc load DLL bằng explorer.exe để thực thi mã độc
 
 # Thân bài 
 

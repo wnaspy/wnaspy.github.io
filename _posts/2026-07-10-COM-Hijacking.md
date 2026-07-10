@@ -23,9 +23,11 @@ tags: [readteam]
 1. Đăng kí một reg trong 
 
 - HKEY_CURRENT_USER (HKCU) – ưu tiên cho user hiện tại Computer\HKEY_CURRENT_USER\Software\Classes\CLSID 
+
 2. Xóa thumbcache 
 
 - Remove-Item -Path "$env:LOCALAPPDATA\Microsoft\Windows\Explorer\thumbcache_*.db" -Force -ErrorAction SilentlyContinue
+
 3. Dung explorer va khoi dong lai
 
 - Stop-Process -Name explorer -Force

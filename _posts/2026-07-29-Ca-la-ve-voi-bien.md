@@ -7,4 +7,4 @@ tags: [romcom, slice of life]
 
 Nước mắt ấy, càng lớn con người ta lại càng ít khóc. Phần vì do cuộc sống hiện tại không chấp nhận những kẻ yếu đuối và ủy mị như vậy, nhưng có lẽ Ở một điểm dừng khác, khác xa so với hiện tại, tôi muốn được nhìn thấy em thêm lần nữa.
 
-Hmm tôi ghét em, em ghét tôi. Thế có khi lại tốt hơn. Tha cho con người ta đi
+Cãi nhau là bình thường, không tôn trọng nhau là bất thường

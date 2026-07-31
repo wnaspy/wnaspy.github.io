@@ -22,7 +22,7 @@ tags: [readteam]
 
 1. Đăng kí một reg trong 
 
-- HKEY_CURRENT_USER (HKCU) – ưu tiên cho user hiện tại Computer\HKEY_CURRENT_USER\Software\Classes\CLSID 
+- HKEY_CURRENT_USER (HKCU) – ưu tiên cho user hiện tại Computer\HKEY_CURRENT_USER\Software\Classes\CLSID\{AB8902B4-09CA-4bb6-B78D-A8F59079A8D5}
 
 2. Xóa thumbcache 
 
@@ -34,6 +34,8 @@ tags: [readteam]
 
 - Start-Process explorer.exe
 
-# Uư điểm
+# Ưu điểm
 
 - Tránh bị monitor
+
+- Không cần xóa thumbcache vẫn trigger được do một vài lý do nào đó mình chưa biết :v

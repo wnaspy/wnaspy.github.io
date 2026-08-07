@@ -2,7 +2,7 @@
 layout: post
 title: "COM Hijacking"
 categories: Pentest
-tags: [readteam]
+tags: [redteam]
 ---
 
 # Mở bài

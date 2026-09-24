@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hack the hacker and unpack all the things"
-categories: Pentest
+categories: Redteam
 tags: [redteam, devops, OS, PE, system, blueteam, immediately]
 ---
 

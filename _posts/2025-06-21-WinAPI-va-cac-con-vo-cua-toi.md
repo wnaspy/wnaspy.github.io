@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tập tành làm quen với WinAPI"
-categories: Pentest
+categories: Redteam
 tags: [beginner, pentest, redteam, PE, coding, tutorial, beginner]
 ---
 

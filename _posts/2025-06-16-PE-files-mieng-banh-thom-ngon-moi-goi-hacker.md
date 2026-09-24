@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PE files - miếng bánh mật thơm ngon mà hacker nào cũng nên biết"
-categories: Blueteam
+categories: RedTeam
 tags: [beginner, pentest, redteam, PE]
 ---
 

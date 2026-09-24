@@ -2,7 +2,7 @@
 layout: post
 title: "Ta chỉ gặp nhau lúc chạng vạng"
 categories: Novel
-tags: [romcom, slice of life]
+tags: [romcom, slice of life, oneshot]
 ---
 
 "Anh dạo này không đến nữa à!?"

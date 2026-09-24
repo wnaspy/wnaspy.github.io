@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COM Hijacking"
-categories: Pentest
+categories: Redteam
 tags: [redteam]
 ---
 

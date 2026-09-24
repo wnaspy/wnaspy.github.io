@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bypass co che bao mat cua windows defender"
-categories: Pentest
+categories: Redteam
 tags: [redteam]
 ---
 

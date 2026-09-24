@@ -2,7 +2,7 @@
 layout: post
 title: "DLL side loading trong mã độc"
 categories: RedTeam
-tags: [Readteam]
+tags: [redteam]
 ---
 
 # Mở bài

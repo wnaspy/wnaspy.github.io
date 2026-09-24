@@ -2,7 +2,7 @@
 layout: post
 title: "How does computer hardware work??"
 date: 2025-03-09 18:30:00 +0700
-categories: Hardware
+categories: Blog
 tags: [hardware, tutorial, beginner]
 ---
 

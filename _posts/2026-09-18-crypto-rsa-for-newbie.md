@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Crypto - RSA cho người mới bắt đầu"
+categories: Cryptography
+tags: [Cryptography]
+---
+
 # Bộ 10 bài luyện tập CTF - RSA
  
 > Nguyên tắc luyện tập: đọc đề → tự đoán "lỗ hổng nằm ở đâu" → viết script Python (dùng `sympy`, `pycryptodome`, hoặc thư viện `gmpy2`) → chỉ mở phần Đáp án khi đã thử ít nhất 10-15 phút.
@@ -15,6 +22,40 @@ pip install sympy pycryptodome gmpy2
 n = 3233
 e = 17
 c = 2790
+
+from sympy import factorint
+
+n = 3233
+e = 17
+c = 2790
+
+# Bước 1: Factor n
+factors = factorint(n)
+p, q = list(factors.keys())
+
+# Bước 2: Tính phi(n)
+phi = (p - 1) * (q - 1)
+
+# Bước 3: Tính private key d
+d = pow(e, -1, phi)
+
+# Bước 4: Giải mã
+m = pow(c, d, n)
+print(f"p={p}, q={q}, phi={phi}, d={d}")
+print(f"Bản rõ (số): {m}")
+print(f"Ký tự: {chr(m)}")
+
+
+from sympy import gcdex
+
+p = 26513
+q = 32321
+
+u,v,h = gcdex(p,q)
+print(u)
+print(v)
+print(h)
+
 ```
 **Gợi ý**: n rất nhỏ. Factor trực tiếp bằng `sympy.factorint()` hoặc thử chia tay.
  

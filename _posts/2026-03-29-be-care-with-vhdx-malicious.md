@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cẩn thận mã độc trong các file .vhdx"
-categories: Pentest
+categories: Redteam
 tags: [redteam, devops, OS, PE, system, blueteam, immediately, CVE, research]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Học được gì từ việc build lab"
-categories: Pentest
+categories: Blog
 tags: [redteam, devops, OS, PE, system, blueteam]
 ---
 

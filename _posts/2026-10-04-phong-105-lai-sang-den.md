@@ -26,3 +26,5 @@ Thắng dừng lại đôi chút nhưng có lẽ chỉ cần một khoảnh kh�
 Hân cũng cứ thế thuận theo gã, hai tay cô choàng lấy cổ gã. Cứ thế mà sà lòng vào người con trai kia.
 
 Thật kì lạ, đều là lần đầu tiên của cả hai nhưng lại không một chút sai sót nào, có lẽ như người ta hay bảo, cứ để cho con tim tự làm theo ý mình. 
+
+.

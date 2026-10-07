@@ -67,7 +67,7 @@ n = 92565752233748521
 e = 65537
 c = 15427086843431102
 ```
-**Gợi ý**: n vẫn factor được bằng máy tính cá nhân, nhưng `sympy.factorint` thuần có thể chậm. Thử dùng [factordb.com](http://factordb.com) (dán n vào ô tìm kiếm) hoặc `sympy.ntheory.factor_.factorint` với timeout dài hơn.
+**Gợi ý**: n vẫn factor được bằng máy tính cá nhân, nhưng `sympy.factorint` thuần có thể chậm. Thử dùng [factordb.com](https://factordb.com) (dán n vào ô tìm kiếm) hoặc `sympy.ntheory.factor_.factorint` với timeout dài hơn.
  
  
 ## Bài 3 — Common Modulus Attack

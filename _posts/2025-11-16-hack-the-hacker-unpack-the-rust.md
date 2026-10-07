@@ -5,6 +5,5 @@ categories: Redteam
 tags: [redteam, devops, OS, PE, system, blueteam, immediately]
 ---
 
-- Đéo biết unpack file thì cút mẹ mày đi, chúng ta không cùng đẳng cấp
 
-ước gì tao có thể nói thế :<
+- Bài này tập tành dump shellcode bằng scylla

@@ -2,20 +2,19 @@
 layout: post
 title: "Crypto - RSA cho người mới bắt đầu"
 categories: Cryptography
-tags: [Cryptography]
+tags: [cryptography]
 ---
 
 # Bộ 10 bài luyện tập CTF - RSA
  
-> Nguyên tắc luyện tập: đọc đề → tự đoán "lỗ hổng nằm ở đâu" → viết script Python (dùng `sympy`, `pycryptodome`, hoặc thư viện `gmpy2`) → chỉ mở phần Đáp án khi đã thử ít nhất 10-15 phút.
+Nguyên tắc luyện tập: đọc đề → tự đoán "lỗ hổng nằm ở đâu" → viết script Python (dùng `sympy`, `pycryptodome`, hoặc thư viện `gmpy2`) → chỉ mở phần Đáp án khi đã thử ít nhất 10-15 phút.
  
 Cài sẵn trước khi bắt đầu:
+
 ```bash
 pip install sympy pycryptodome gmpy2
 ```
- 
----
- 
+  
 ## Bài 1 — Factor n cơ bản (khởi động)
  
 ```

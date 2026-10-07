@@ -69,7 +69,6 @@ c = 15427086843431102
 ```
 **Gợi ý**: n vẫn factor được bằng máy tính cá nhân, nhưng `sympy.factorint` thuần có thể chậm. Thử dùng [factordb.com](http://factordb.com) (dán n vào ô tìm kiếm) hoặc `sympy.ntheory.factor_.factorint` với timeout dài hơn.
  
----
  
 ## Bài 3 — Common Modulus Attack
  
@@ -86,7 +85,6 @@ c2 = 25
 $$M = c1^a \times c2^b \mod n$$
 (Một trong hai số a, b sẽ âm — cần tính nghịch đảo modulo cho số hạng đó.)
  
----
  
 ## Bài 4 — Low Public Exponent Attack (e=3, không padding)
  
@@ -102,7 +100,6 @@ from gmpy2 import iroot
 m, exact = iroot(c, 3)
 ```
  
----
  
 ## Bài 5 — Fermat's Factorization (p và q quá gần nhau)
  
@@ -124,7 +121,6 @@ while True:
     a += 1
 ```
  
----
  
 ## Bài 6 — Wiener's Attack (d quá nhỏ)
  
@@ -139,7 +135,6 @@ import owiener
 d = owiener.attack(e, n)
 ```
  
----
  
 ## Bài 7 — Chung ước số nguyên tố giữa 2 khóa (Shared Prime / GCD Attack)
  
@@ -156,7 +151,7 @@ c2 = 987654321
 ```
 **Gợi ý**: Tính `gcd(n1, n2)`. Nếu kết quả > 1, đó chính là số nguyên tố chung p → suy ra q1 = n1/p, q2 = n2/p → tính được cả 2 private key.
  
----
+
  
 ## Bài 8 — n là số chính phương (p = q)
  
@@ -172,7 +167,6 @@ p = math.isqrt(n)
 assert p * p == n
 ```
  
----
  
 ## Bài 9 — Cho biết φ(n) thay vì n bị factor sẵn
  
@@ -189,7 +183,6 @@ c   = 2790
 - p × q = n
 → Giải phương trình bậc 2: `x² − (p+q)x + n = 0` để tìm p, q.
  
----
  
 ## Bài 10 — Partial Key Exposure (biết một phần bit của p)
  
@@ -201,7 +194,6 @@ c = 123456789012345678901234
 ```
 **Gợi ý**: Đây là dạng nâng cao dùng thuật toán **Coppersmith's Attack** (dựa trên lattice reduction). Không cần tự code từ đầu — dùng thư viện `sympy` kết hợp `sage` (nếu có) hoặc script `coppersmith.sage` có sẵn trên GitHub tìm theo từ khóa "coppersmith small roots factorization". Đây là bài để em làm quen khái niệm, không bắt buộc giải hoàn chỉnh nếu mới bắt đầu.
  
----
  
 ## ĐÁP ÁN & SCRIPT GIẢI
  

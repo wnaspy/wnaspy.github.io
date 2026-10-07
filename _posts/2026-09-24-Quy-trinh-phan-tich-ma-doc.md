@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quy trình phân tích mã độc"
-categories: Quy trinh
+categories: Blog
 tags: [blog]
 ---
 

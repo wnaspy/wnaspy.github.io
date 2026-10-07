@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bypass co che bao mat cua windows defender"
+title: "Bypass co che bao mat cua Windows"
 categories: Redteam
 tags: [redteam]
 ---
@@ -15,7 +15,7 @@ tags: [redteam]
 + SmartScreen: Kiểm tra độ tin cậy của các trang web và tập tin tải về trên internet.
 + Windows Firewall: Lọc các gói tin mạng đến và đi, ngăn chặn kết nối độc hại từ bên ngoài.
 + Core Isolation & VBS: Dùng ảo hóa phần cứng để cô lập nhân hệ điều hành tránh bị tấn công tầng sâu.
-+ AMSI,...
++ AMSI, ASLR
 
 Đối với một số phương pháp mình sẽ hướng dẫn cách bypass khác nhau, sẽ update khi nào mình rảnh
 

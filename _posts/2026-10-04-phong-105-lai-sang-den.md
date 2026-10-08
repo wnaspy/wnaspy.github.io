@@ -9,7 +9,7 @@ tags: [blog]
 
 Anh Thắng-ggg.
 
-Hắn nhìn Hân, khuôn mặt điềm tĩnh thường ngày giờ đây lại thoáng thấp có chút rối bời. Hàng ngàn dòng suy nghĩ hiện lên trước mắt gã. Một tương lai có Hân ở trong đó, một tương lai mà Hân là một, người vợ hiền, một tương lai hắn sẽ là một người chồng, người cha và hang ngày sẽ được quây quần bên mâm cơm cùng với cô và đám con thơ, có đôi lúc hắn sẽ nổi nóng vì một vài chuyện vặt vẵn nhưng vẫn sẽ chủ động làm hòa. Liệu đây sẽ là một dấu chấm hết cho cuộc đời cô độc của gã.
+Hắn nhìn Hân, khuôn mặt điềm tĩnh thường ngày giờ đây lại thoáng thấp có chút rối bời. Hàng ngàn dòng suy nghĩ hiện lên trước mắt gã. Một tương lai có Hân ở trong đó, một tương lai mà Hân là một người vợ hiền, một tương lai hắn sẽ là một người chồng, người cha và hàng ngày sẽ được quây quần bên mâm cơm cùng với cô và đám con thơ, có đôi lúc hắn sẽ nổi nóng vì một vài chuyện vặt vẵn nhưng vẫn sẽ chủ động làm hòa. Liệu đây sẽ là một dấu chấm hết cho cuộc đời cô độc của gã.
 
 Được chứ?!! - Thắng cười một cách tinh ranh
 

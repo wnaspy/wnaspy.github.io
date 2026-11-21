@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Phòng 105 lại sáng đèn"
-categories: Blog
-tags: [blog]
+categories: Novel
+tags: [romcom, slice of life, oneshot]
 ---
 
 
